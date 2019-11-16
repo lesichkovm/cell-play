@@ -1,3 +1,3 @@
 # Play
 
-This repository powers [play.celljs.org](https://play.celljs.org).
+This repository powers [play for celljs](https://lesichkovm.github.io/cell-play/index.html).
